@@ -1,5 +1,6 @@
 ### Hi there 👋
-[To the website](natalieyigit.github.io)
+Link to Website
+[Bünyamin Yigit Portfolio](https://natalieyigit.github.io)
 
 <!--
 **natalieyigit/natalieyigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
