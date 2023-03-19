@@ -2,15 +2,25 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nasenbär</title>
-</head>
-<style>
-    body {
-      background-image: url('nati.jpg');
-    }
+    <style>
+        /* Default styles for desktop devices */
+        body {
+            background-image: url('nati.jpg');
+            background-size: cover; /* Make sure the background image covers the entire screen */
+        }
+
+        /* Media query for screens smaller than 768px wide (e.g. mobile devices) */
+        @media (max-width: 768px) {
+            body {
+                background-image: url('mobile.jpg'); /* Use a different background image for mobile devices */
+                background-size: contain; /* Adjust the background image size to fit the screen width */
+                background-position: top; /* Align the background image to the top of the screen */
+            }
+        }
     </style>
+</head>
 <body>
 
 </body>
