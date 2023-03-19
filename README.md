@@ -1,5 +1,5 @@
 ### Hi there 👋
-[a link](natalieyigit.github.io)
+[To the website](natalieyigit.github.io)
 
 <!--
 **natalieyigit/natalieyigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
