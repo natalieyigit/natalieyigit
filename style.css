@@ -1,7 +1,7 @@
 /* Set the font family and background color for the entire page */
 body {
     font-family: Arial, sans-serif;
-    background-image: url('natik.jpg');
+    background-image: url('nati.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -31,6 +31,7 @@ body {
     font-size: 24px;
     margin-bottom: 20px;
     color: #333;
+    text-align: left;
 }
 
 /* Media query for screens smaller than 768px wide */
@@ -39,6 +40,8 @@ body {
     .container {
         width: 90%;
         padding: 10px;
+        left: 5%;
+        transform: translate(-5%, -50%);
     }
 
     /* Adjust the font sizes for mobile devices */
